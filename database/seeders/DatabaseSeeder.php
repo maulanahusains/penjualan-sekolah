@@ -46,8 +46,8 @@ class DatabaseSeeder extends Seeder
         ]);
 
         Supplier::create([
-            'nama_supplier' => 'maulsup',
-            'nama_perusahaan' => 'maulsup',
+            'nama_supplier' => 'bebulbebis',
+            'nama_perusahaan' => 'bebulbebis',
             'alamat' => 'jalanajalan',
             'no_telp' => '028342394',
         ]);
